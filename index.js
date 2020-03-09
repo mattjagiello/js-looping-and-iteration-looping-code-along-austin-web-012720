@@ -4,5 +4,3 @@ function writeCards(names, eventname) {
   console.log(`Thank you ${names[i]} for the wonderful birthday gift!`);
   }
 }
-
-writeCards(names, eventname);
