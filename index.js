@@ -6,4 +6,3 @@ function writeCards(names, eventname) {
   }
   return messages;
 }
-
