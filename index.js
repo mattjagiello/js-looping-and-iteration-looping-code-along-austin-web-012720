@@ -12,5 +12,4 @@ function countDown(integer){
     console.log(integer)
     integer --;
   }
-  
 }
